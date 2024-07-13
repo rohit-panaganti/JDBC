@@ -1,0 +1,5 @@
+Prepared Statements : for inserting more number of rows
+DAO : Data acess object -> it has layer which has all steps
+Class.forName() function ---> it execute the static block,((which means loa the class)), and Class.forName().newInstance() create the object
+which loads the static block in which it has Driver.regester..."com.mysql.jdbc.Driver"
+
